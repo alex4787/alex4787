@@ -13,12 +13,12 @@
 - Node.js and web development (HTML, CSS, Javascript, AJAX)
 - C and basics to systems programming
 #### 🧰 Some Past Projects
-- [def not_bad_trivia](https://github.com/ParanoidAndroid-C/topeka/tree/java) for cuHacking 2021
+- **[def not_bad_trivia](https://github.com/ParanoidAndroid-C/topeka/tree/java)** for [cuHacking 2021](https://2021.cuhacking.com/)
   - A trivia game for audiences at music events built in Android Studio with questions generated using the Spotify API and connected/hosted through Firebase (though it didn't entirely work out the way we expected - see the Readme)
   - Won 2nd place for the [Ross Video](https://www.rossvideo.com/) Fan Engage-o-meter challenge!
   - I learned more about using APIs, namely the Spotify API through the SpotiPy wrapper, as well as more about Node.js
   - [Demo](https://www.youtube.com/watch?v=yMyWnsDf0Es)
-- [No Laughing Matter](http://nolaughingmatter.online/) for Hack the North 2020++
+- **[No Laughing Matter](http://nolaughingmatter.online/)** for [Hack the North 2020++](https://hackthenorth.com/)
   - A party game that connects users over video using Socket.io and WebRTC and analyses their laughter after a joke using the face-api library built on top of TensorFlow.js
   - My first hackathon! I worked on the design in Figma and the front-end, and learned some basic Node.js and how to deploy using Heroku!
   - [Devpost](https://devpost.com/software/no-laughing-matter)
