@@ -5,11 +5,20 @@
 - 🎓 I'm a computer science student at Carleton University (Class of 2024)
 #### 🔧 What I'm working on
 - An eCommerce website using Rails
-- A movie database website for my web development course
+  - [x] Base website built using MVC in Rails
+  - [x] Data linked up with SQL database
+  - [x] Built fully-functional GraphQL API
+  - [ ] Currently working on adding React to the front-end
+- **critique**: a movie database website for my web development course
+  - [x] Finished design of RESTful API and schema for objects
+  - [x] Completed base server using Node.js and Express
+  - [x] Added all server routers, and Pug templates for dynamic page generation
+  - [ ] Currently testing server with sample JSON data
+  - [ ] Working on implementing MongoDB for a fully-functional database
 #### 🌱 What I'm learning
 - Dev Degree:
-  - I'm currently learning Ruby on Rails!
-  - Since September, I've learned Ruby, SQL, Git, and the Scrum development framework
+  - I'm currently learning React and Front-end development!
+  - Since September, I've learned Ruby, SQL, Git, Ruby on Rails, and the Scrum development framework
 - Node.js and web development (HTML, CSS, Javascript, AJAX)
 - C and basics to systems programming
 #### 🧰 Some Past Projects
