@@ -4,15 +4,15 @@
 - 💼 I'm a [Shopify Dev Degree](https://devdegree.ca/) intern, currently on the developer skills training path
 - 🎓 I'm a computer science student at Carleton University (Class of 2024)
 #### 🔧 What I'm working on
-- An 🛍️ eCommerce website using Rails
-  - [x] Base website built using MVC in Rails
-  - [x] Data linked up with SQL database
-  - [x] Built fully-functional GraphQL API
+- An 🛍️ eCommerce website using Rails<br>
+  ✅ Base website built using MVC in Rails<br>
+  ✅ Data linked up with SQL database<br>
+  ✅ Built fully-functional GraphQL API
   - [ ] Currently working on adding React to the front-end
-- **critique**: a 🎥 movie database website for my Web Development course
-  - [x] Finished design of RESTful API and schema for objects
-  - [x] Completed base server using Node.js and Express
-  - [x] Added all server routers, and Pug templates for dynamic page generation
+- **critique**: a 🎥 movie database website for my Web Development course<br>
+  ✅ Finished design of RESTful API and schema for objects<br>
+  ✅ Completed base server using Node.js and Express<br>
+  ✅ Added all server routers, and Pug templates for dynamic page generation
   - [ ] Currently testing server with sample JSON data
   - [ ] Working on implementing MongoDB for a fully-functional database
 #### 🌱 What I'm learning
