@@ -7,21 +7,22 @@
 - An 🛍️ eCommerce website using Rails<br>
   ✅ Base website built using MVC in Rails<br>
   ✅ Data linked up with SQL database<br>
-  ✅ Built fully-functional GraphQL API
-  - [ ] Currently working on adding React to the front-end
-- **critique**: a 🎥 movie database website for my Web Development course<br>
-  ✅ Finished design of RESTful API and schema for objects<br>
-  ✅ Completed base server using Node.js and Express<br>
-  ✅ Added all server routers, and Pug templates for dynamic page generation
-  - [ ] Currently testing server with sample JSON data
-  - [ ] Working on implementing MongoDB for a fully-functional database
+  ✅ Built fully-functional GraphQL API<br>
+  ✅ Built a React front-end using [Shopify Polaris](https://polaris.shopify.com/) components
+  - [ ] Currently adding additional features and testing the React front-end
 #### 🌱 What I'm learning
 - Dev Degree:
-  - I'm currently learning React and Front-end development!
+  - I'm currently learning React!
+  - In May, I'll be joining the API Patterns team, a back-end GraphQL-focused team, as a developer
   - Since September, I've learned Ruby, SQL, Git, Ruby on Rails, and the Scrum development framework
-- Node.js and web development (HTML, CSS, Javascript, AJAX)
+- Node.js and web development (HTML, CSS, Javascript, AJAX, ExpressJS, Pug, MongoDB, Mongoose)
 - C and basics to systems programming
 #### 🧰 Some Past Projects
+- **critique**: a 🎥 movie database website for my Web Development course<br>
+  - A website built on ExpressJS with a Mongoose/MongoDB database and Pug template rendering
+  - Similar to IMDB, it allows users to browse various movies, actors, directors, writers, and other users
+  - Users may also create an account to follow industry people and other users, add movies to the database, and manage their watchlist
+  - It also recommends movies to users as well as presents a selection of similar movies for each movie in the database
 - **[def not_bad_trivia](https://github.com/ParanoidAndroid-C/topeka/tree/java)** for [cuHacking 2021](https://2021.cuhacking.com/)
   - A trivia game for audiences at music events built in Android Studio with questions generated using the Spotify API and connected/hosted through Firebase (though it didn't entirely work out the way we expected - see the Readme)
   - 🥈 Won 2nd place for the [Ross Video](https://www.rossvideo.com/) Fan Engage-o-meter challenge!
