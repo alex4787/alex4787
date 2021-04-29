@@ -18,7 +18,7 @@
 - Node.js and web development (HTML, CSS, Javascript, AJAX, ExpressJS, Pug, MongoDB, Mongoose)
 - C and basics to systems programming
 #### 🧰 Some Past Projects
-- **critique**: a 🎥 movie database website for my Web Development course<br>
+- **[critique](http://critique-2406.herokuapp.com/)**: a 🎥 movie database website for my Web Development course<br>
   - A website built on ExpressJS with a Mongoose/MongoDB database and Pug template rendering
   - Similar to IMDB, it allows users to browse various movies, actors, directors, writers, and other users
   - Users may also create an account to follow industry people and other users, add movies to the database, and manage their watchlist
