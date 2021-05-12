@@ -1,23 +1,23 @@
 ### Hi, I'm Alex!
 #### 👋 About Me
 - 🇨🇦 I'm from Markham, Ontario, Canada (just north of Toronto)
-- 💼 I'm a [Shopify Dev Degree](https://devdegree.ca/) intern, currently on the developer skills training path
-- 🎓 I'm a computer science student at Carleton University (Class of 2024)
+- 💼 I'm a [Shopify Dev Degree](https://devdegree.ca/) intern, currently on the API Patterns team
+- 🎓 I'm a first-year computer science student at Carleton University (Class of 2024)
 #### 🔧 What I'm working on
-- An 🛍️ eCommerce website using Rails<br>
-  ✅ Base website built using MVC in Rails<br>
-  ✅ Data linked up with SQL database<br>
-  ✅ Built fully-functional GraphQL API<br>
-  ✅ Built a React front-end using [Shopify Polaris](https://polaris.shopify.com/) components
-  - [ ] Currently adding additional features and testing the React front-end
+- Currently onboarding 🚂 on the API Patterns team
 #### 🌱 What I'm learning
-- Dev Degree:
-  - I'm currently learning React!
-  - In May, I'll be joining the API Patterns team, a back-end GraphQL-focused team, as a developer
-  - Since September, I've learned Ruby, SQL, Git, Ruby on Rails, and the Scrum development framework
-- Node.js and web development (HTML, CSS, Javascript, AJAX, ExpressJS, Pug, MongoDB, Mongoose)
-- C and basics to systems programming
+- GraphQL and API design practices
+- Linear Algebra and Calculus
+- Micro and Macroeconomics
+#### 🌳 What I've learned recently
+- Dev Degree Training Path: Ruby, SQL, Git, Ruby on Rails, React, GraphQL, and the Scrum development framework
+- COMP 2406 (web development course): Node.js and web development (HTML, CSS, Javascript, AJAX, ExpressJS, Pug, MongoDB, Mongoose)
+- COMP 2401 (systems design course): C and basics to systems programming
 #### 🧰 Some Past Projects
+- **An 🛍️ eCommerce website using Rails**<br>
+  - Full MVC website built on Rails and MySQL with a GraphQL server and React front-end
+  - Catalog of products organized into collections (currently seeded with filler data)
+  - Allows customers to add products to their cart, checkout, and add reviews
 - **[critique](http://critique-2406.herokuapp.com/)**: a 🎥 movie database website for my Web Development course<br>
   - A website built on ExpressJS with a Mongoose/MongoDB database and Pug template rendering
   - Similar to IMDB, it allows users to browse various movies, actors, directors, writers, and other users
