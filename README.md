@@ -4,7 +4,7 @@
 </div>
 
 ## 👋 About Me
-- 🇨🇦 I'm from Markham, Ontario, Canada (just north of Toronto)
+- 🇨🇦 I'm based in Ottawa, Canada
 - 💼 I'm a [Shopify Dev Degree](https://devdegree.ca/) intern, currently on the API Patterns team
 - 🎓 I'm a first-year computer science student at Carleton University (Class of 2024)
 
